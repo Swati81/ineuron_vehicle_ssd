@@ -1,7 +1,7 @@
 ## ineuron_vehicle_ssd
 
 ### Architecture Used:-
-   #### SSD Mobilenet, OpenCV , HTML & Flask
+   #### ObjectDetection, ComputerVision, SSD-Mobilenet, OpenCV , html & Flask api, etc..
 
 ![vehicle_git](https://user-images.githubusercontent.com/52413661/133123120-080d1850-55a8-47fc-a3ed-591e4c995934.gif)
 
